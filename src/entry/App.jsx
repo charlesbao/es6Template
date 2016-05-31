@@ -1,5 +1,5 @@
-import App from '../views/index';
+import IndexView from '../views/index';
 import ReactDOM from 'react-dom';
 import React from 'react';
 
-ReactDOM.render(<App />, document.getElementById('react-content'));
+ReactDOM.render(<IndexView />, document.getElementById('react-content'));
